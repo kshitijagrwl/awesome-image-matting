@@ -27,13 +27,12 @@ Over the last few years (2016-), deep learning based approaches have achieved gr
 -  Mask-Guided Matting in the Wild [CVPR] [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Park_Mask-Guided_Matting_in_the_Wild_CVPR_2023_paper.html)
 -  ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers [arxiv] [paper](https://arxiv.org/abs/2305.15272) [![GitHub stars](https://img.shields.io/github/stars/hustvl/ViTMatte.svg?logo=github&label=Stars)](https://github.com/hustvl/ViTMatte)
 - AEMatter: Rethinking Context Aggregation in Natural Image Matting [arxiv] [paper](https://arxiv.org/abs/2304.01171v1) [![GitHub stars](https://img.shields.io/github/stars/qlyoo/aematter.svg?logo=github&label=Stars)](https://github.com/qlyoo/aematter)
-
+- Referring Image Matting [CVPR] [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Referring_Image_Matting_CVPR_2023_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/RIM.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/RIM)
 
 **2022**
 - Highly Accurate Dichotomous Image Segmentation [ECCV] [paper](https://arxiv.org/pdf/2203.03041.pdf) [![GitHub stars](https://img.shields.io/github/stars/xuebinqin/DIS.svg?logo=github&label=Stars)](https://github.com/xuebinqin/DIS)
 - Human Instance Matting via Mutual Guidance and Multi-Instance Refinement [CVPR] [paper](https://arxiv.org/pdf/2205.10767v1.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/InstMatt.svg?logo=github&label=Stars)](https://github.com/nowsyn/InstMatt)
 - Hierarchical and Progressive Image Matting [TOMM] [paper](https://dl.acm.org/doi/pdf/10.1145/3540201)
-- Referring Image Matting [arXiv] [paper](https://arxiv.org/pdf/2206.05149.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/RIM.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/RIM)
 - Unified Interactive Image Matting [arXiv] [paper](https://arxiv.org/pdf/2205.08324.pdf)
 - Situational Perception Guided Image Matting [arXiv] [paper](https://arxiv.org/pdf/2204.09276.pdf)
 - PP-Matting: High-Accuracy Natural Image Matting [arXiv] [paper](https://arxiv.org/pdf/2204.09433.pdf) [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg) :thumbsup: :thumbsup:
@@ -124,6 +123,10 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - A Closed Form Solution to Natural Image Matting [CVPR] [paper](https://people.csail.mit.edu/alevin/papers/Matting-Levin-Lischinski-Weiss-CVPR06.pdf) [![GitHub stars](https://img.shields.io/github/stars/MarcoForte/closed-form-matting.svg?logo=github&label=Stars)](https://github.com/MarcoForte/closed-form-matting)
 
 ## Video Matting
+**2023**
+-  Ultrahigh Resolution Image/Video Matting With Spatio-Temporal Sparsity [CVPR] [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Ultrahigh_Resolution_ImageVideo_Matting_With_Spatio-Temporal_Sparsity_CVPR_2023_paper.html)
+- Adaptive Human Matting for Dynamic Videos [CVPR2] [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Adaptive_Human_Matting_for_Dynamic_Videos_CVPR_2023_paper.pdf)
+- End-to-End Video Matting With Trimap Propagation [CVPR] [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_End-to-End_Video_Matting_With_Trimap_Propagation_CVPR_2023_paper.pdf)
 
 **2022**
 - Robust High-Resolution Video Matting with Temporal Guidance [WACV] [paper](https://arxiv.org/pdf/2108.11515.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/RobustVideoMatting.svg?logo=github&label=Stars)](https://github.com/PeterL1n/RobustVideoMatting) :thumbsup: :thumbsup: :thumbsup:
